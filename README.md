@@ -10,4 +10,4 @@ Frontend-разработчик. Учусь, верстаю, экспериме�
 HTML · CSS · JavaScript · C# · Unity
 
 ## Связаться
-[VK]([https://vk.com/...](https://vk.ru/mightyone228))
+[VK](https://vk.ru/mightyone228)
