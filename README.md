@@ -1,16 +1,13 @@
-## Hi there 👋
+# Привет, я Андрей 👋
 
-<!--
-**Falanger888/Falanger888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend-разработчик. Учусь, верстаю, экспериментирую с AI-инструментами.
 
-Here are some ideas to get you started:
+## Что я делаю
+- 🌐 Верстаю лендинги и многостраничники
+- 🤖 Изучаю vibe coding и AI-assisted разработку
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Стек
+HTML · CSS · JavaScript · C# · Unity
+
+## Связаться
+[VK]([https://vk.com/...](https://vk.ru/mightyone228))
