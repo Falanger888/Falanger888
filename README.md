@@ -41,6 +41,6 @@
 
 ### 📫 Как со мной связаться
 <p align="left">
-  <a href="https://vk.com/ВАША_ССЫЛКА_НА_ВК"><img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white" alt="VK" /></a>
+  <a href="https://vk.ru/mightyone228"><img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white" alt="VK" /></a>
   <a href="https://discord.com/"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 </p>
